@@ -1,2 +1,3 @@
-# MathScrabble
-MathScrabble — A mathematical word-game inspired by Scrabble, designed to teach and practice arithmetic through play.
+# MathBlend
+
+MathBlend is an educational mathematics board game that combines tile placement with mathematical equations to help players practice arithmetic through play.
